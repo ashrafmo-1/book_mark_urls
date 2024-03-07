@@ -275,10 +275,11 @@
     },
     {
       "id": 24,
-      "title": "White Gold Plated",
-      "price": 9.99,
-      "category": "jewelery",
-      "image": "https://th.bing.com/th/id/OIP.EK7qDdS2fYuci1ED3InTOAHaE7?pid=ImgDet&rs=1",
+      "title": "mintor",
+      "price": 99.99,
+      "category": "computers",
+      "description": "Samsung Odyssey Neo Quantum Mini",
+      "image": "https://th.bing.com/th/id/R.6a2bba2159a8cd5fc93ddae6646ee525?rik=5FGLxRG8xh8fbQ&pid=ImgRaw&r=0",
       "rating": {
         "rate": 3,
         "count": 400
@@ -286,10 +287,11 @@
     },
     {
       "id": 25,
-      "title": "Pierced Owl Rose Gold",
-      "price": 10.99,
-      "category": "jewelery",
-      "image": "https://th.bing.com/th/id/OIP.boJI9IVJphGvtOMukicf1QAAAA?pid=ImgDet&rs=1",
+      "title": "asus",
+      "price": 999.99,
+      "category": "computers",
+      "description": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination",
+      "image": "https://th.bing.com/th/id/OIP.wbW3x-1CtmJ2DQPn_fgGwgHaE1?rs=1&pid=ImgDetMain",
       "rating": {
         "rate": 1.9,
         "count": 100
