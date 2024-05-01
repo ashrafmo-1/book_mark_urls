@@ -1,312 +1,410 @@
 {
-  "products": [
+  "Bookmarks": [
     {
-      "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
+      "Header": "style",
+      "Links": [
+        {
+          "name": "Tailwind CSS Icons - Flowbite",
+          "url": "https://flowbite.com/docs/customize/icons/"
+        },
+        {
+          "name": "Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS",
+          "url": "https://www.flaticon.com/"
+        },
+        {
+          "name": "📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍",
+          "url": "https://emojipedia.org/"
+        },
+        {
+          "name": "CSS Gradient — Generator, Maker, and Background",
+          "url": "https://cssgradient.io/"
+        },
+        {
+          "name": "Installation - Tailwind CSS",
+          "url": "https://tailwindcss.com/docs/installation"
+        },
+        {
+          "name": "Set Up with React | Font Awesome Docs",
+          "url": "https://docs.fontawesome.com/web/use-with/react/"
+        },
+        {
+          "name": "Recents and Sharing – Figma",
+          "url": "https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1229352406963877477"
+        },
+        {
+          "name": "Search results for Linked in - Flaticon",
+          "url": "https://www.flaticon.com/free-icon/linkedin_2504799?term=linked+in&page=1&position=34&origin=search&related_id=2504799"
+        },
+        {
+          "name": "Static Badge | Shields.io",
+          "url": "https://shields.io/badges"
+        },
+        {
+          "name": "HTML Symbols",
+          "url": "https://www.w3schools.com/html/html_symbols.asp"
+        },
+        {
+          "name": "Color Combination The Deep Blue - Canva's Design Wiki",
+          "url": "https://www.canva.com/colors/color-palettes/the-deep-blue/"
+        },
+        {
+          "name": "Haikei",
+          "url": "https://app.haikei.app/"
+        },
+        {
+          "name": "Bootstrap · The most popular HTML, CSS, and JS library in the world.",
+          "url": "https://getbootstrap.com/"
+        },
+        {
+          "name": "React icons search results",
+          "url": "https://react-icons.github.io/react-icons/search/?q=cart"
+        },
+        {
+          "name": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+          "url": "https://tailwindcss.com/"
+        },
+        {
+          "name": "41 Product Card Designs: Creative Examples To Use",
+          "url": "https://wpdean.com/product-card-design/"
+        },
+        {
+          "name": "Button by Nawsome made with CSS | Uiverse.io",
+          "url": "https://uiverse.io/Nawsome/unlucky-mayfly-5"
+        },
+        {
+          "name": "Search: html Logo PNG Vectors Free Download",
+          "url": "https://seeklogo.com/search?q=html"
+        },
+        {
+          "name": "House Classic Solid Icon | Font Awesome",
+          "url": "https://fontawesome.com/icons/house?f=classic&s=solid"
+        },
+        {
+          "name": "Gradient CSS Generator | CSSmatic",
+          "url": "https://www.cssmatic.com/gradient-generator#'-moz-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 50%, rgba(246,41,12,1) 51%, rgba(240,47,23,1) 71%, rgba(231,56,39,1) 100%);'"
+        },
+        {
+          "name": "Download 1,340,400 free icons (SVG, PNG)",
+          "url": "https://icons8.com/icons"
+        },
+        {
+          "name": "Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place",
+          "url": "https://cssgradient.io/gradient-backgrounds/"
+        },
+        {
+          "name": "coolors.co",
+          "url": "https://coolors.co/a1cca5-8fb996-709775-415d43-111d13"
+        },
+        {
+          "name": "1,790 Notion Icons - Free in SVG, PNG, ICO - IconScout",
+          "url": "https://iconscout.com/icons/notion?price=free"
+        },
+        {
+          "name": "Feedback Loop Concept Illustration",
+          "url": "https://www.freepik.com/free-vector/feedback-loop-concept-illustration_82648101.htm#query=feedback&position=9&from_view=search&track=sph&uuid=b55f89b8-b70f-450a-836e-420389ca24cf"
+        },
+        {
+          "name": "backdrop-filter - CSS: Cascading Style Sheets | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter"
+        },
+        {
+          "name": "black CSS Gradient | SheCodes",
+          "url": "https://gradients.shecodes.io/gradients/141"
+        },
+        {
+          "name": "Your Themes - VS Code Theme Studio",
+          "url": "https://themes.vscode.one/your-themes/"
+        },
+        {
+          "name": "Convert.best - Free, Fast, High-Quality Format Converter",
+          "url": "https://convert.best/index.html"
+        }
+      ]
     },
     {
-      "id": 2,
-      "title": "Mens Casual Premium Slim Fit T-Shirts ",
-      "price": 22.3,
-      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-      "rating": {
-        "rate": 4.1,
-        "count": 259
-      }
+      "Header": "fonts",
+      "Links": [
+        {
+          "name": "Fira Code - Google Fonts",
+          "url": "https://fonts.google.com/specimen/Fira+Code?query=fira+code"
+        },
+        {
+          "name": "Browse Fonts - Google Fonts",
+          "url": "https://fonts.google.com/?preview.text=Whereas%20recognition%20of%20the%20inherent%20dignity"
+        }
+      ]
     },
     {
-      "id": 3,
-      "title": "Mens Cotton Jacket",
-      "price": 55.99,
-      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 500
-      }
+      "Header": "react",
+      "Links": [
+        {
+          "name": "Dashboard | Clerk.com",
+          "url": "https://dashboard.clerk.com/apps/app_2XJkaEsVvTyZwdrzv8oOXaxIeAm/instances/ins_2XJkaDgcl0S8Q37rnoPlv5OVgLW"
+        },
+        {
+          "name": "reactrouter.com/en/main",
+          "url": "https://reactrouter.com/en/main"
+        },
+        {
+          "name": "Tables | React Bootstrap",
+          "url": "https://react-bootstrap.github.io/docs/components/table/"
+        },
+        {
+          "name": "react-scroll - npm",
+          "url": "https://www.npmjs.com/package/react-scroll"
+        },
+        {
+          "name": "Tutorial v6.20.1 | React Router",
+          "url": "https://reactrouter.com/en/main/start/tutorial"
+        },
+        {
+          "name": "react-router-hash-link - npm",
+          "url": "https://www.npmjs.com/package/react-router-hash-link"
+        },
+        {
+          "name": "دانلود Udemy - React - The Complete Guide 2023 (incl. React Router & Redux) 2023-6",
+          "url": "https://downloadly.ir/elearning/video-tutorials/react-16-the-complete-guide-incl-redux-9/"
+        },
+        {
+          "name": "make crative portfolio to front end developer and handel project section to add projects | A v0.dev template - v0",
+          "url": "https://v0.dev/r/9feJn3CnfzF"
+        },
+        {
+          "name": "Next.js - shadcn/ui",
+          "url": "https://ui.shadcn.com/docs/installation/next"
+        },
+        {
+          "name": "shadcn/ui",
+          "url": "https://ui.shadcn.com/"
+        },
+        {
+          "name": "make advanced navgation bar | A v0.dev template - v0",
+          "url": "https://v0.dev/r/jFVzrCnd7mc"
+        },
+        {
+          "name": "react-toastify - npm",
+          "url": "https://www.npmjs.com/package/react-toastify"
+        },
+        {
+          "name": "Website Builder - Create a Free Website Today | Wix.com",
+          "url": "https://www.wix.com/"
+        },
+        {
+          "name": "React-toastify | React-Toastify",
+          "url": "https://fkhadra.github.io/react-toastify/introduction/"
+        },
+        {
+          "name": "React Icons",
+          "url": "https://react-icons.github.io/react-icons/search?q=cart"
+        },
+        {
+          "name": "Editor Setup – React",
+          "url": "https://react.dev/learn/editor-setup"
+        },
+        {
+          "name": "React Hook Form - performant, flexible and extensible form library",
+          "url": "https://react-hook-form.com/"
+        },
+        {
+          "name": "MUI: The React component library you always wanted",
+          "url": "https://mui.com/"
+        },
+        {
+          "name": "OwlCarousel2/OwlCarousel2: DEPRECATED jQuery Responsive Carousel.",
+          "url": "https://github.com/OwlCarousel2/OwlCarousel2"
+        },
+        {
+          "name": "react-simple-typewriter - npm",
+          "url": "https://www.npmjs.com/package/react-simple-typewriter"
+        },
+        {
+          "name": "Formik: Build forms in React, without the tears",
+          "url": "https://formik.org/"
+        },
+        {
+          "name": "Getting Started | Recoil",
+          "url": "https://recoiljs.org/docs/introduction/getting-started"
+        },
+        {
+          "name": "React Charts - Simple, immersive & interactive charts for React",
+          "url": "https://react-charts.tanstack.com/"
+        },
+        {
+          "name": "awran5/react-simple-typewriter: A simple react component for adding a nice typewriter effect to your project.",
+          "url": "https://github.com/awran5/react-simple-typewriter"
+        },
+        {
+          "name": "Updating the UI with JavaScript and DOM Methods - From JavaScript to React | Learn Next.js",
+          "url": "https://nextjs.org/learn/foundations/from-javascript-to-react/updating-ui-with-javascript"
+        },
+        {
+          "name": "Features | Vite",
+          "url": "https://vitejs.dev/guide/features.html"
+        }
+      ]
     },
     {
-      "id": 4,
-      "title": "Mens Casual Slim Fit",
-      "price": 15.99,
-      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 2.1,
-        "count": 430
-      }
+      "Header": "tools",
+      "Links": [
+        {
+          "name": "Teal - Home",
+          "url": "https://app.tealhq.com/home"
+        },
+        {
+          "name": "مولد QR - مجاني | قم بعمل كود QR للرابط أو الصورة أو ملف PDF - ME-QR",
+          "url": "https://me-qr.com/ar/dash-board"
+        },
+        {
+          "name": "Free QR Code Generator - باركود سريع مخصص عالي الوضوح",
+          "url": "https://www.websiteplanet.com/ar/webtools/free-qr-code-generator/"
+        },
+        {
+          "name": "live-server",
+          "url": "https://browsersync.io/"
+        },
+        {
+          "name": "ash_sass_mixins - npm",
+          "url": "https://www.npmjs.com/package/ash_sass_mixins?activeTab=readme"
+        },
+        {
+          "name": "Futurepedia - Find The Best AI Tools & Software",
+          "url": "https://www.futurepedia.io/"
+        },
+        {
+          "name": "GitHub Profile Readme Generator | GitHub Profile Readme Generator",
+          "url": "https://rahuldkjain.github.io/gh-profile-readme-generator/"
+        },
+        {
+          "name": "Cursor - The AI-first Code Editor",
+          "url": "https://cursor.sh/"
+        },
+        {
+          "name": "Jetpack Stats ‹ واحة جدة — WordPress.com",
+          "url": "https://wordpress.com/stats/day/blog31465.wordpress.com"
+        },
+        {
+          "name": "Files - Dropbox",
+          "url": "https://www.dropbox.com/home"
+        },
+        {
+          "name": "Bower — a package manager for the web",
+          "url": "https://bower.io/"
+        }
+      ]
     },
     {
-      "id": 5,
-      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-      "price": 695,
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
-      }
+      "Header":"programming",
+      "Links": [
+        {
+          "name": "react-animate-on-scroll - npm",
+          "url": "https://www.npmjs.com/package/react-animate-on-scroll"
+        },
+        {
+          "name": "Getting Started – Pug",
+          "url": "https://pugjs.org/api/getting-started.html"
+        },
+        {
+          "name": "DummyJSON - Fake REST API of JSON data for development",
+          "url": "https://dummyjson.com/"
+        },
+        {
+          "name": "39- Find The Position - [Problem Solving in JS] | بالعربي - YouTube",
+          "url": "https://www.youtube.com/watch?v=vh_v0xuo3cQ&list=PL3iticg1TvA-jMsFwDgdb6Cy_L__qL56H&index=41"
+        },
+        {
+          "name": "Learn JSON in Arabic #03 - API Overview And JSON Tools - YouTube",
+          "url": "https://www.youtube.com/watch?v=XCaDp94OCHw&list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ&index=5"
+        },
+        {
+          "name": "michalsnik/aos: Animate on scroll library",
+          "url": "https://github.com/michalsnik/aos?tab=readme-ov-file"
+        },
+        {
+          "name": "JavaScript practice challenges – train on code kata | Codewars",
+          "url": "https://www.codewars.com/kata/search/javascript?q=&beta=false&order_by=sort_date%20desc"
+        },
+        {
+          "name": "SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes",
+          "url": "https://sweetalert2.github.io/v10.html"
+        },
+        {
+          "name": "Projecto",
+          "url": "https://app.projecto.app/Home/Index"
+        },
+        {
+          "name": "JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials",
+          "url": "https://javascript30.com/"
+        },
+        {
+          "name": "Arrow Function Syntax | أكاديمية الزيرو",
+          "url": "https://elzero.org/category/courses/javascript-bootcamp/"
+        }
+      ]
     },
     {
-      "id": 6,
-      "title": "Solid Gold Petite Micropave ",
-      "price": 168,
-      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 70
-      }
+      "Header":"hosting",
+      "Links": [
+        {
+          "name": "Cloud Application Hosting for Developers | Render",
+          "url": "https://render.com/"
+        },
+        {
+          "name": "database-products ・ Web Service ・ Render Dashboard",
+          "url": "https://dashboard.render.com/web/srv-cjt16aibgj9c73990f6g"
+        },
+        {
+          "name": "dragon-store - Manage site - Dashboard - Firebase console",
+          "url": "https://console.firebase.google.com/u/0/project/a-m-productsmanagment/hosting/sites/a-m-productsmanagment"
+        },
+        {
+          "name": "Cloudflare | Web Performance & Security",
+          "url": "https://dash.cloudflare.com/903de877685adcb90698c63535e1f1dc/ashraf-1.com/email/routing/overview"
+        },
+        {
+          "name": "Cloud Application Platform | Heroku",
+          "url": "https://www.heroku.com/"
+        },
+        {
+          "name": "Deploys | ornate-ganache-bda43d | Netlify",
+          "url": "https://app.netlify.com/sites/ornate-ganache-bda43d/deploys"
+        },
+        {
+          "name": "Dashboard – Vercel",
+          "url": "https://vercel.com/ashraf-mohamed-1s-projects"
+        },
+        {
+          "name": "Working...",
+          "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fportal.azure.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3DGEg3pip01vI4BuPcfSFxvZoVLiQ0aB-h_p2VOLxTdk1aytBE_JYSpaXg_4cCKI1gmdfpmfFjanUrvOyBXlB-GeHpAgJ0BljuBCJu_exLbZUBoXH_5hjMyLbOxdDjhUC3&response_mode=form_post&nonce=638373552798614291.NGUyMjc1ZjMtODdlYS00ZDkxLWFhYjgtMjRkNTE0NGIxMzMzNWVjMGVkMTQtNmY0OC00YTVlLTk4ZTgtNzIwMzc1M2M0ZTMw&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=db3b568e-7143-42a8-b099-ab350a70b7a7&x-client-SKU=ID_NET472&x-client-ver=6.30.1.0"
+        },
+        {
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/account/workspaces"
+        },
+        {
+          "name": "Ashraf Mohamed · GitLab",
+          "url": "https://gitlab.com/ashraf-codes"
+        }
+      ]
+    }
+  ],
+  "social_media_links": [
+    {
+      "Header": "social_posts",
+      "Links": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/ASHRAFMoOoHAMED"
+        }
+      ]
     },
     {
-      "id": 7,
-      "title": "White Gold Plated Princess",
-      "price": 9.99,
-      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3,
-        "count": 400
-      }
-    },
-    {
-      "id": 8,
-      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-      "price": 10.99,
-      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 1.9,
-        "count": 100
-      }
-    },
-    {
-      "id": 9,
-      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-      "price": 64,
-      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-      "rating": {
-        "rate": 3.3,
-        "count": 203
-      }
-    },
-    {
-      "id": 10,
-      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-      "price": 109,
-      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 470
-      }
-    },
-    {
-      "id": 11,
-      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-      "price": 109,
-      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 319
-      }
-    },
-    {
-      "id": 12,
-      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-      "price": 114,
-      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 400
-      }
-    },
-    {
-      "id": 13,
-      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-      "price": 599,
-      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 250
-      }
-    },
-    {
-      "id": 14,
-      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-      "price": 999.99,
-      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.2,
-        "count": 140
-      }
-    },
-    {
-      "id": 15,
-      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-      "price": 56.99,
-      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 2.6,
-        "count": 235
-      }
-    },
-    {
-      "id": 16,
-      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-      "price": 29.95,
-      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 340
-      }
-    },
-    {
-      "id": 17,
-      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-      "price": 39.99,
-      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-      "rating": {
-        "rate": 3.8,
-        "count": 679
-      }
-    },
-    {
-      "id": 18,
-      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-      "price": 9.85,
-      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 130
-      }
-    },
-    {
-      "id": 19,
-      "title": "Opna Women's Short Sleeve Moisture",
-      "price": 7.95,
-      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.5,
-        "count": 146
-      }
-    },
-    {
-      "id": 20,
-      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-      "price": 12.99,
-      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-      "rating": {
-        "rate": 3.6,
-        "count": 145
-      }
-    },
-    {
-      "id": 21,
-      "title": "Mens Casual",
-      "price": 15.99,
-      "category": "lap tops",
-      "image": "https://th.bing.com/th/id/R.43d081371cae4e84e4728ee88862ee92?rik=Q3i5m1NLIO%2b4CQ&riu=http%3a%2f%2fs1.dlnws.com%2ffiles%2fuploads%2fAuros-X301-thumb800.jpg&ehk=c20X8eeFEc0YfpqINDZcrJ26t2uW7Zv1PcAPX6cMsoM%3d&risl=&pid=ImgRaw&r=0",
-      "rating": {
-        "rate": 2.1,
-        "count": 430
-      }
-    },
-    {
-      "id": 22,
-      "title": "John Hardy",
-      "price": 6095,
-      "category": "women",
-      "image": "https://th.bing.com/th/id/R.7308a034e23be91099ff55692984c626?rik=LJbqlH2zv8HNJA&pid=ImgRaw&r=0",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
-      }
-    },
-    {
-      "id": 23,
-      "title": "food",
-      "price": 168,
-      "category": "food",
-      "image": "https://th.bing.com/th/id/OIP.G0WF1hoNLhe-lVdknOY7vQHaFn?pid=ImgDet&rs=1",
-      "rating": {
-        "rate": 3.9,
-        "count": 70
-      }
-    },
-    {
-      "id": 24,
-      "title": "mintor",
-      "price": 99.99,
-      "category": "computers",
-      "description": "Samsung Odyssey Neo Quantum Mini",
-      "image": "https://th.bing.com/th/id/R.6a2bba2159a8cd5fc93ddae6646ee525?rik=5FGLxRG8xh8fbQ&pid=ImgRaw&r=0",
-      "rating": {
-        "rate": 3,
-        "count": 400
-      }
-    },
-    {
-      "id": 25,
-      "title": "asus",
-      "price": 999.99,
-      "category": "computers",
-      "description": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination",
-      "image": "https://th.bing.com/th/id/OIP.wbW3x-1CtmJ2DQPn_fgGwgHaE1?rs=1&pid=ImgDetMain",
-      "rating": {
-        "rate": 1.9,
-        "count": 100
-      }
-    },
-    {
-      "id": 26,
-      "title": "WD 2TB Elements",
-      "price": 64,
-      "category": "electronics",
-      "image": "https://th.bing.com/th/id/R.b305f93c2dd986d5a11964b68379f8db?rik=ia1KRYaAlH4rkw&pid=ImgRaw&r=0",
-      "rating": {
-        "rate": 3.3,
-        "count": 203
-      }
+      "Header": "social_contacts",
+      "Links": [
+        {
+          "name": "web_site",
+          "url": "https://ashraf-1.vercel.app/"
+        }
+      ]
     }
   ]
 }
